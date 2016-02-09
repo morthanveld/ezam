@@ -12,8 +12,8 @@ public class MazeCreator {
 
     private int[][] mazeData;
 
-    private int width = 20;
-    private int height = 20;
+    public int width = 20;
+    public int height = 20;
 
     public int playerX = 7;
     public int playerY = 6;
